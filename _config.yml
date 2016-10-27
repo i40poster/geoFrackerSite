@@ -6,6 +6,11 @@ description: Exploring free data from cities
 logo: Logo02.png
 search: true
 
+#Dev
+#url: http://localhost:4000
+#Prod
+url: https://i40poster.github.io/geoFrackerSite
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
