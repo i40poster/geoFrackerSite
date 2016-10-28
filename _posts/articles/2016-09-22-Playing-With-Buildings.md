@@ -9,8 +9,6 @@ tags:
   - Edifications
   - Buildings
   - Polygons
-
-permalink: /RStudioSetupV2
 image:
   #feature: so-simple-sample-image-7.jpg
   #credit: WeGraphics
@@ -22,7 +20,7 @@ date: 2016-09-22
 author: cesar
 ---
 
-Before we start, did you have followed the setup steps described at [here]({{site.url}}/RStudioSetup)
+
 
 # Let's explore some data
 
