@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's start!"
+title: "<b>GeoFracker Studio Steup(Part 1)</b> Let's start!"
 excerpt: "Exploring some Sao Paulo data with geoFracker"
 tags:
   - Maps
@@ -134,3 +134,7 @@ plot(pointsEdificacao)
 <iframe width='970' height='546'
 src="https://www.youtube.com/embed/kz_DIhT8kZc">
 </iframe>
+
+
+# Next Steps
+For a more complete setup  check [this page]({{site.url}}/RStudioSetupV2-pt2) where you can enable ftp access to the `geofracker` container.
