@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Calculateing magic distances, based from key equipaments"
+title: "Calculating magic distances, based from key equipaments"
 excerpt: "Voronoi, Edification, and tables."
 tags:
   - Maps
